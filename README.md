@@ -6,7 +6,7 @@
 Simple Flashcard app that enable user to tap for question and answer
 
 ### App Walk-though
-<img src="https://recordit.co/ivAPaQMRyh" width=200><br>
+<img src="https://recordit.co/ivAPaQMRyh"><br>
 
 ## Required
 - [x] Create New Project in Android Studio
